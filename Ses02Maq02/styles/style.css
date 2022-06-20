@@ -1,0 +1,108 @@
+*{
+    background-color:rgb(226, 223, 223);
+    margin:0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #fff059;
+}
+
+img{
+    width: 200px;
+    height: 100px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+button{
+    color: black;
+    margin-left: 900px;
+    margin-bottom: 40px;
+    border-radius: 50%;
+    background-color: transparent;
+}
+
+.amarillo{
+    background-color: #fff059;
+    height: 150px;
+}
+
+.cuadro{
+    margin-top: -100px;
+    margin-left: 500px;
+    width: 400px;
+    height: 450px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+span{
+   background-color: transparent;
+}
+
+.reCAPTCHA{
+    height: 300px;
+    margin-left: 500px;
+}
+
+footer{
+    background-color: white;
+    height: 100px;
+}
+
+footer > a {
+    margin-left: 600px;
+    background-color: transparent;
+    text-decoration: none;
+    color: black;
+}
+
+footer > span {
+    margin-left: 450px;
+    margin-top: 30px;
+    color: rgb(80, 80, 80);
+}
+
+.cuadro span{
+    font-size: 25px;
+    margin-left: 25px;
+    }
+
+div > span.small{
+    font-size: 15px;
+}
+
+.fill{
+    margin-left: 50px;
+    width: 300px;
+    height: 50px;
+    border-radius: 7px;
+    background-color: transparent;
+}
+
+.continue{
+    background-color: blue;
+    margin-left: 50px;
+    border-radius: 7px;
+    text-decoration: none;
+    color: white;
+    padding: 15px 110px;
+    font-size: 20px;
+}
+
+.create{
+    color: blue;
+    text-decoration: none;
+    margin-left: 145px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.help{
+    color: blue;
+    text-decoration: none;
+    margin-left: 100px;
+    background-color: transparent;
+    font-size: 17px;
+}
