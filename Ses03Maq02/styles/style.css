@@ -1,0 +1,72 @@
+.container-france{
+    display: flex;
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;
+}
+
+.blue-item{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(1, 1, 107);
+}
+
+.white-item{
+    width: 200px;
+    height: 400px;
+    background-color: white;
+}
+
+.red-item{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.container-sweden{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;
+    background-color: yellow;
+}
+
+.sblue1-item{
+    width: 190px;
+    height: 150px;
+    background-color: rgb(51, 127, 248);
+}
+
+.sblue2-item{
+    width: 340px;
+    height: 150px;
+    background-color: rgb(51, 127, 248);
+}
+
+.container-mexico{
+    display: flex;
+    width: 600px;
+    height: 400px;
+    margin: 20px auto;
+}
+
+.green-item{
+    width: 200px;
+    height: 400px;
+    background-color: rgb(11, 128, 38);
+}
+
+.red-item{
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+img{
+    margin: 24px;
+    width: 150px;
+    height: 150px;
+    align-self: center;
+}
+
